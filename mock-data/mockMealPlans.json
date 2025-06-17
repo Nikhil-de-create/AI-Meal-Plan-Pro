@@ -1,0 +1,14 @@
+[
+  {
+    "mealTitle": "Vegetarian Buddha Bowl",
+    "description": "A healthy mix of quinoa, chickpeas, and fresh veggies.",
+    "ingredients": ["quinoa", "chickpeas", "spinach", "carrots", "avocado"],
+    "instructions": "Cook quinoa. Roast chickpeas. Assemble bowl with veggies."
+  },
+  {
+    "mealTitle": "Grilled Chicken Salad",
+    "description": "Protein-packed salad with grilled chicken and mixed greens.",
+    "ingredients": ["chicken breast", "lettuce", "tomatoes", "cucumber", "olive oil"],
+    "instructions": "Grill chicken. Toss veggies with olive oil. Combine."
+  }
+]
